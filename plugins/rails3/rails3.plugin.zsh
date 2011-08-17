@@ -17,3 +17,6 @@ alias rp='_rails_command plugin'
 alias rs='_rails_command server'
 alias rsd='_rails_command server --debugger'
 alias devlog='tail -f log/development.log'
+
+# my personal aliases for rails
+alias rst='_rails_command server thin'
